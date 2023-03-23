@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "basicMCMCplots"]
+	path = basicMCMCplots
+	url = https://github.com/cran/basicMCMCplots
+	shallow = true
+	registered = true
+[submodule "BayesNSGP"]
+	path = BayesNSGP
+	url = https://github.com/cran/BayesNSGP
+	shallow = true
+	registered = true
+[submodule "MATA"]
+	path = MATA
+	url = https://github.com/cran/MATA
+	shallow = true
+	registered = true
+[submodule "nimbleSCR"]
+	path = nimbleSCR
+	url = https://github.com/cran/nimbleSCR
+	shallow = true
+	registered = true

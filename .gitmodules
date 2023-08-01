@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "basicMCMCplots"]
-	path = basicMCMCplots
-	url = https://github.com/cran/basicMCMCplots
 [submodule "BayesNSGP"]
 	path = BayesNSGP
 	url = https://github.com/cran/BayesNSGP
 [submodule "MATA"]
 	path = MATA
 	url = https://github.com/cran/MATA
+[submodule "basicMCMCplots"]
+	path = basicMCMCplots
+	url = https://github.com/cran/basicMCMCplots
 [submodule "nimbleHMC"]
 	path = nimbleHMC
 	url = https://github.com/cran/nimbleHMC
